@@ -42,5 +42,5 @@ I'm currently working at the development of the Brazilian Blockchain Network (Re
 <div id="stats" align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lionel-Rocha)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Rocha&layout=compact)](https://github.com/Lionel-Rocha)
 </div>
