@@ -1,8 +1,15 @@
-![Heading (1)](https://github.com/Lionel-Rocha/Lionel-Rocha/assets/111009073/a02823c2-b03d-411c-b1fe-cdaab104a6c3)
+![Sem título](https://github.com/Lionel-Rocha/Lionel-Rocha/assets/111009073/4b1da860-e3a0-4716-91d8-5e9293e7329e)
+
 <div id="badges" align="center">
+  <a href="mailto:lionel.rocha.alves@gmail.com/">
+  <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/lionel-rocha-578832208/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+ 
 </div>
 
 ## ➦ About me:
