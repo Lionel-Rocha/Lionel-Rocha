@@ -36,17 +36,16 @@ No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 ## ➦ I'm profficient with/Sou proficiente com:
 
 <div id="programming-languages" align="center"> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfRIiZFoujvWamBaWxioAP79za9H70-IJPEgY2piTr3t9s9IQ8gSSQYroAnvj2ZeslMoo&usqp=CAU" alt="Solidity Badge" width="64"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Badge" width="64"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Badge" width="64"/>
-<img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="NodeJS Badge" width="64"/>
+  
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,solidity,python&theme=light&perline=3)](https://skillicons.dev)
+
 </div>
 
 ## ➦ My favourite frameworks are/Meus frameworks favoritos são:
 <div id="frameworks" align="center">
-<img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="Tensorflow" width="64">
-<img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" width="64">
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="64">
+
+[![My Skills](https://skillicons.dev/icons?i=flask,django,express&theme=light&perline=3)](https://skillicons.dev)
+
 </div>
 
 ## ➦ I'm currently learning/Estou aprendendo:
