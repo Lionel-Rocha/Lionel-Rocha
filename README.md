@@ -51,7 +51,7 @@ No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 ## ➦ I'm currently learning/Estou aprendendo:
 
 <div id="learning" align="center">
-<img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2047-5s6wkmk1.png" alt="Rust" width="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" width="64">
 </div>
 
 ## ➦ My stats/Minhas estatísticas: 
