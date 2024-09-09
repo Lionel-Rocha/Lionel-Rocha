@@ -1,15 +1,14 @@
 ![Sem título](https://github.com/Lionel-Rocha/Lionel-Rocha/assets/111009073/4b1da860-e3a0-4716-91d8-5e9293e7329e)
 
-<div id="badges" align="center">
-  <a href="mailto:lionel.rocha.alves@gmail.com/">
-  <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/lionel-rocha-578832208/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Rocha&layout=compact)](https://github.com/Lionel-Rocha)
+
 </div>
+
+
+
+
 
 ## ➦ About me (EN):
 
@@ -54,6 +53,18 @@ No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" width="64">
 </div>
 
+## ➦ Contact me/Entre em contato:
+<div id="badges" align="center">
+  <a href="mailto:lionel.rocha.alves@gmail.com/">
+  <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/lionel-rocha-578832208/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+</div>
+
 ## ➦ My stats/Minhas estatísticas: 
 
 | ![trophy](https://github-profile-trophy.vercel.app/?username=Lionel-Rocha&margin-w=15) |
@@ -64,8 +75,6 @@ No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 <div id="stats" align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lionel-Rocha)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Rocha&layout=compact)](https://github.com/Lionel-Rocha)
 
 </div>
 
