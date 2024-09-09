@@ -19,7 +19,7 @@ Hi there, I'm a back-end Python developer & web3 developer from Rio de Janeiro, 
 
 ⚡ I'm looking to collaborate on: **smart contract & dApps development**
 
-⚡ You can ask me about: **artificial intelligence & EVM based blockchains**
+⚡ You can ask me about: **Python projects, artificial intelligence & EVM based blockchains**
 
 ## ➦ Sobre mim (PT)
 
@@ -29,7 +29,7 @@ Olá, eu sou uma pessoa que desenvolve back-end em Python & web3 do Rio de Janei
 
 ⚡ Estou procurando colaborar em: desenvolvimento de smart contracts e dApps
 
-⚡ Você pode me perguntar sobre: inteligência artificial e blockchains baseadas em EVM
+⚡ Você pode me perguntar sobre: projetos em Python, inteligência artificial e blockchains baseadas em EVM
 
 No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 
@@ -55,8 +55,19 @@ No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 </div>
 
 ## ➦ My stats/Minhas estatísticas: 
+
+| ![trophy](https://github-profile-trophy.vercel.app/?username=Lionel-Rocha&margin-w=15) |
+|:--:|
+| Meus troféus |
+
+
 <div id="stats" align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Lionel-Rocha)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Rocha&layout=compact)](https://github.com/Lionel-Rocha)
+
 </div>
+
+
+
