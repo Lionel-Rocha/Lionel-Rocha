@@ -1,34 +1,38 @@
-![Sem título](https://github.com/Lionel-Rocha/Lionel-Rocha/assets/111009073/4b1da860-e3a0-4716-91d8-5e9293e7329e)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+
+<br>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Rocha&layout=compact)](https://github.com/Lionel-Rocha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Rocha&hide=html,css,dockerfile,portugol&layout=compact)](https://github.com/Lionel-Rocha)
 
 </div>
 
-
-
-
-
 ## ➦ About me (EN):
 
-Hi there, I'm a back-end Python developer & web3 developer from Rio de Janeiro, Brazil. Currently, I'm working on the development of the Brazilian Blockchain Network (Rede Blockchain Brasil - RBB), but I'm also working on projects for other chains, such as Rosetta (for Ethereum Sepolia) and MiniSecret (for Secret).
+Hi there! I'm a jack-of-all-trades Python, NodeJS and Java developer based on Rio de Janeiro, Brazil. Currently, I'm working on the development of the Brazilian Blockchain Network (Rede Blockchain Brasil - RBB), but I'm also working on Python, Java and web3 projects. I'm willing to help pretty much anyone who asks, as long as you ask politely.
 
 ⚡ My pronoums are: **they/them**
 
-⚡ I'm looking to collaborate on: **smart contract & dApps development**
+⚡ I'm looking to collaborate on: **smart contract & dApps development, systems development**
 
-⚡ You can ask me about: **Python projects, artificial intelligence & EVM based blockchains**
+⚡ You can ask me about: **Python, Javascript & EVM based blockchains**
+
+⚡ I'm really passionate about: **Python, Java and Linux**
 
 ## ➦ Sobre mim (PT)
 
-Olá, eu sou uma pessoa que desenvolve back-end em Python & web3 do Rio de Janeiro, Brasil. Atualmente, estou trabalhando no desenvolvimento da Rede Blockchain Brasil (RBB), mas também estou me envolvendo em projetos para outras blockchains, como Rosetta para a Ethereum Sepolia e MiniSecret para a Secret.
+Olá, eu sou uma pessoa faz-tudo que desenvolve em Python, NodeJS e Java que se encontra no Rio de Janeiro, Brasil
 
-⚡ Pronomes: elu/delu, mas qualquer um serve
+eu sou uma pessoa que desenvolve back-end em Python & web3 do Rio de Janeiro, Brasil. Atualmente, estou trabalhando no desenvolvimento da Rede Blockchain Brasil (RBB), mas também trabalho com Python, Java e outros projetos web3. Eu posso, e gosto, de ajudar qualquer um que pedir, contanto que peça educadamente.
 
-⚡ Estou procurando colaborar em: desenvolvimento de smart contracts e dApps
+⚡ Pronomes: **elu/delu, mas qualquer um serve**
 
-⚡ Você pode me perguntar sobre: projetos em Python, inteligência artificial e blockchains baseadas em EVM
+⚡ Estou procurando colaborar em: **desenvolvimento de smart contracts e dApps, desenvolvimento de sistemas**
+
+⚡ Você pode me perguntar sobre: **projetos em Python, Javascript e blockchains baseadas em EVM**
+
+⚡ Eu tenho muita paixão por: **Python, Java e Linux**
 
 No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 
@@ -36,21 +40,23 @@ No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 
 <div id="programming-languages" align="center"> 
   
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,solidity,python&theme=light&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,solidity,python,java&theme=light&perline=4)](https://skillicons.dev)
 
 </div>
 
-## ➦ My favourite frameworks are/Meus frameworks favoritos são:
-<div id="frameworks" align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=flask,django,express&theme=light&perline=3)](https://skillicons.dev)
+## ➦ I can handle myself with/Eu sei lidar com:
+<div id="can-handle" align="center"> 
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,vuejs,react,django,express,flask,tensorflow,linux,docker&theme=light&perline=5)](https://skillicons.dev)
 
 </div>
+
 
 ## ➦ I'm currently learning/Estou aprendendo:
 
 <div id="learning" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" width="64">
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="64">
 </div>
 
 ## ➦ Contact me/Entre em contato:
@@ -58,6 +64,8 @@ No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
   <a href="mailto:lionel.rocha.alves@gmail.com/">
   <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  
+  <br>
 
   <a href="https://www.linkedin.com/in/lionel-rocha-578832208/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
