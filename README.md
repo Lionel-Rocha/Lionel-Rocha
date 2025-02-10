@@ -32,7 +32,7 @@ eu sou uma pessoa que desenvolve back-end em Python & web3 do Rio de Janeiro, Br
 
 ⚡ Você pode me perguntar sobre: **projetos em Python, Javascript e blockchains baseadas em EVM**
 
-⚡ Eu tenho muita paixão por: **Python, Java e Linux**
+⚡ Eu tenho muita paixão por: **Python, JavaScript e Linux**
 
 No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 
@@ -40,14 +40,14 @@ No meu LinkedIn, eu compartilho sobre meus projetos (tanto web2 quanto web3).
 
 <div id="programming-languages" align="center"> 
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,solidity,python,java&theme=light&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,solidity,python,vuejs&theme=light&perline=4)](https://skillicons.dev)
 
 </div>
 
 ## ➦ I can handle myself with/Eu sei lidar com:
 <div id="can-handle" align="center"> 
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,vuejs,react,django,express,flask,tensorflow,linux,docker&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,java,react,django,express,flask,tensorflow,linux,docker&theme=light&perline=5)](https://skillicons.dev)
 
 </div>
 
