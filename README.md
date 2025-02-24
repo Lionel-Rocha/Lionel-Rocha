@@ -18,7 +18,7 @@ Hi there! I'm a jack-of-all-trades Python, NodeJS and Java developer based on Ri
 
 ⚡ You can ask me about: **Python, Javascript & EVM based blockchains**
 
-⚡ I'm really passionate about: **Python, Java and Linux**
+⚡ I'm really passionate about: **Python, Javascript and Linux**
 
 ## ➦ Sobre mim (PT)
 
