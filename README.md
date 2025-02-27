@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## I can handle myself with/Eu sei lidar com:
+## I can handle with/Eu sei lidar com:
 
 </div>
 
