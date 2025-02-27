@@ -10,7 +10,7 @@
 
 ## ➦ About me (EN):
 
-Hi there! I'm a jack-of-all-trades Python, NodeJS and Java developer based on Rio de Janeiro, Brazil. Currently, I'm working on the development of the Brazilian Blockchain Network (Rede Blockchain Brasil - RBB), but I'm also working on Python, Java and web3 projects. I'm willing to help pretty much anyone who asks, as long as you ask politely.
+Hi there! I'm a jack-of-all-trades Python and JavaScript developer based on Rio de Janeiro, Brazil. Currently, I'm working on the development of the Brazilian Blockchain Network (Rede Blockchain Brasil - RBB), but I'm also working on Python and JavaScript for web and blockchain projects. I'm willing to help pretty much anyone who asks, as long as you ask politely.
 
 ⚡ My pronoums are: **they/them**
 
@@ -24,7 +24,7 @@ Hi there! I'm a jack-of-all-trades Python, NodeJS and Java developer based on Ri
 
 Olá, eu sou uma pessoa faz-tudo que desenvolve em Python, NodeJS e Java que se encontra no Rio de Janeiro, Brasil
 
-eu sou uma pessoa que desenvolve back-end em Python & web3 do Rio de Janeiro, Brasil. Atualmente, estou trabalhando no desenvolvimento da Rede Blockchain Brasil (RBB), mas também trabalho com Python, Java e outros projetos web3. Eu posso, e gosto, de ajudar qualquer um que pedir, contanto que peça educadamente.
+eu sou uma pessoa que desenvolve back-end em Python & web3 do Rio de Janeiro, Brasil. Atualmente, estou trabalhando no desenvolvimento da Rede Blockchain Brasil (RBB), mas também trabalho com Python, JavaScript para web e outros projetos para blockchain. Eu posso, e gosto, de ajudar qualquer um que pedir, contanto que peça educadamente.
 
 ⚡ Pronomes: **elu/delu, mas qualquer um serve**
 
