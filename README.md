@@ -22,7 +22,7 @@ Hi there! I'm a jack-of-all-trades Python and JavaScript developer based on Rio 
 
 ## ➦ Sobre mim (PT)
 
-Olá, eu sou uma pessoa faz-tudo que desenvolve em Python, NodeJS e Java que se encontra no Rio de Janeiro, Brasil
+Olá, eu sou uma pessoa faz-tudo que desenvolve em Python e JavaScript que se encontra no Rio de Janeiro, Brasil
 
 eu sou uma pessoa que desenvolve back-end em Python & web3 do Rio de Janeiro, Brasil. Atualmente, estou trabalhando no desenvolvimento da Rede Blockchain Brasil (RBB), mas também trabalho com Python, JavaScript para web e outros projetos para blockchain. Eu posso, e gosto, de ajudar qualquer um que pedir, contanto que peça educadamente.
 
