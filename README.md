@@ -41,7 +41,7 @@
 
 <div id="programming-languages" align="center"> 
   
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,solidity,python,vuejs&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,solidity,python,vuejs&theme=light&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div id="can-handle" align="center"> 
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,java,react,django,express,flask,tensorflow,linux,docker&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,java,react,django,flask,tensorflow,linux,docker&theme=light&perline=5)](https://skillicons.dev)
 
 </div>
 
