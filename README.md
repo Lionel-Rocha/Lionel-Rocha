@@ -53,7 +53,7 @@
 
 <div id="can-handle" align="center"> 
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,java,react,django,flask,tensorflow,linux,docker&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,java,react,django,flask,tensorflow,linux,docker,typescript&theme=light&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -65,7 +65,8 @@
 
 <div id="learning" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" width="64">
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="64">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="64">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="64">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="64">
 
 </div>
