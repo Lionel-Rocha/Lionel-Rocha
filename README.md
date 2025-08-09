@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello there! I'm Lionel Rocha! 😉
+# Olá! Eu sou Lionel Rocha! 😉
 
 </div>
 <br>
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-## I'm profficient with/Sou proficiente com:
+## Sou proficiente com:
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## I can handle with/Eu sei lidar com:
+## Eu sei lidar com:
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-## I'm currently learning/Estou aprendendo:
+## Estou aprendendo:
 
 </div>
 
@@ -71,47 +71,21 @@
 
 </div>
 
-## ➦ About me (EN):
-
-I'm a **full-stack developer** with passion and diligence based on Rio de Janeiro, Brasil.
-
-📌 **My objectives are:** create solutions for making people's lives simpler.  
-
-📌 **I'm looking to collaborate with:** blockchain development, web-based systems development
-
-📌 **I'm really, really passionate about:** Python and Linux
-
-📌 **You can ask me about:** Python, blockchain, artificial intelligence, anime and manga 🤓
-
-📌 **My pronoums are:** They/them
-
-## ➦ About me (PT):
+## ➦ Sobre mim:
 Sou uma pessoa desenvolvedora **full-stack** com paixão e muita diligência que mora no Rio de Janeiro, Brasil.
 
 📌 **Meus objetivos são**: criar soluções para tornar a vida das pessoas mais simples.
 
-📌 **Estou buscando colaborar em**: desenvolvimento blockchain, desenvolvimento de sistemas baseados em web
+📌 **Estou buscando colaborar em**: desenvolvimento blockchain, desenvolvimento de sistemas baseados em web, APIs REST
 
-📌 **Eu tenho muita paixão por:** Python e Linux
+📌 **Eu tenho muita paixão por:** Python, Javascript e Linux
 
-📌 **Você pode me perguntar sobre**: Python, blockchain, inteligência artificial, anime e mangá 🤓
+📌 **Você pode me perguntar sobre**: Python, blockchain, Javascript, inteligência artificial, anime e mangá 🤓
 
 📌 **Meus pronomes são:** elu/delu, mas qualquer um serve
 
-## ➦ My favourite projects / Meus projetos favoritos
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div align="center">
 
-  <a href="https://github.com/Lionel-Rocha/lendas-de-papel">
-    <img src="https://img.shields.io/badge/Paper%20Legends-pink?style=for-the-badge&logo=solidity&logoColor=%232c2f33"/>
-  </a>
-
-  <a href="https://github.com/Lionel-Rocha/certificados-blockchain">
-    <img src="https://img.shields.io/badge/Certificados_Blockchain-black?style=for-the-badge&logo=solidity&logoColor=%23ffffff"/>
-  </a>
-
-  <a href="https://github.com/Lionel-Rocha/Stonksbot">
-    <img src="https://img.shields.io/badge/Stonksbot-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Rocha)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
