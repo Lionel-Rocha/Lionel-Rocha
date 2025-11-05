@@ -53,7 +53,7 @@
 
 <div id="can-handle" align="center"> 
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,java,react,django,flask,tensorflow,linux,docker,typescript,adonis&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,react,django,flask,tensorflow,linux,docker,typescript,adonis&theme=light&perline=5)](https://skillicons.dev)
 
 </div>
 
