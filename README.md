@@ -19,9 +19,6 @@
   </a>
 
   <br>
-  <img src="https://img.shields.io/badge/PaizaoDoMorro%230516-%237289da?style=for-the-badge&logo=discord&logoColor=%23ffffff"/>
-
-  <br>
 
   <a href="https://www.linkedin.com/in/lionel-rocha-578832208/">
   <img src="https://img.shields.io/badge/Website-in_progress-orange?style=for-the-badge" alt="Website"/>
