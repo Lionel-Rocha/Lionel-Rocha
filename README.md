@@ -78,8 +78,3 @@ Sou uma pessoa desenvolvedora **full-stack** com paixão e muita diligência que
 
 📌 **Meus pronomes são:** elu/delu, mas qualquer um serve
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel-Rocha)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
