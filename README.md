@@ -76,5 +76,4 @@ Sou uma pessoa desenvolvedora **full-stack** com paixão e muita diligência que
 
 📌 **Você pode me perguntar sobre**: Python, blockchain, Javascript, inteligência artificial, anime e mangá 🤓
 
-📌 **Meus pronomes são:** elu/delu, mas qualquer um serve
 
