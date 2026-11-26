@@ -61,7 +61,9 @@
 </div>
 
 <div id="learning" align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="64">
+  
+[![Learning](https://skillicons.dev/icons?i=java,angular&theme=light&perline=5)](https://skillicons.dev)
+
 
 </div>
 
